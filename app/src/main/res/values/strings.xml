@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="bracket">)</string>
+    <string name="bracket1">(</string>
+    <string name="c">C</string>
+    <string name="ac">AC</string>
+</resources>
